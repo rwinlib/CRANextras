@@ -1,0 +1,31 @@
+Package: GLMMGibbs
+Version: 0.5-1.2
+Depends: R (>= 2.10)
+License: GPL (>= 2)
+Archs: i386, x64
+
+Package: RDCOMClient
+Version: 0.93-0.2
+Depends: methods
+Suggests: SWinTypeLibs
+License: GPL-2
+Archs: i386, x64
+
+Package: Rstem
+Version: 0.4-1
+License: BSD
+Archs: i386, x64
+
+Package: survnnet
+Version: 1.1-3
+Depends: survival
+License: GPL (>= 2)
+Archs: i386, x64
+
+Package: yags
+Version: 4.0-2.2
+Depends: R (>= 2.10), methods
+Imports: MASS
+License: GPL-2
+Archs: i386, x64
+
